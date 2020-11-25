@@ -1,7 +1,6 @@
-This document mentions how to run node Square step by step.   
-Elif Balcı  
-i.elif.balci@gmail.com  
-https://github.com/elifBalci  
+mavros-ardupilot-demo is mavros based implemantation of autonmous drone runs on ardupilot firmware which has a path in a form of a square.
+Requirements: ROS(Melodic), Gazebo, MAVROS and ArduPilot 
+This document mentions how to run node "Square" step by step.   
 ___________________________________________________________
 
 Ros:  
@@ -30,5 +29,8 @@ To echo next position published by square node (it will start publishing after t
 $ rostopic echo /drone/next_waypoint  
 ______________________________________________________________
 
+Elif Balcı  
+i.elif.balci@gmail.com  
+elifbalci.com
 
 
