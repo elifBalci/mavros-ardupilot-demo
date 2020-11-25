@@ -1,6 +1,8 @@
-mavros-ardupilot-demo is mavros based implemantation of autonmous drone runs on ardupilot firmware which has a path in a form of a square.
+This project is a MAVROS based implementation of an autonomous drone runs on ArduPilot firmware with a path in form of a square.
+
 Requirements: ROS(Melodic), Gazebo, MAVROS and ArduPilot 
-This document mentions how to run node "Square" step by step.   
+
+This document mentions how to run node "Square" step by step.
 ___________________________________________________________
 
 Ros:  
