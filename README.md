@@ -1,3 +1,6 @@
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/06ac18fa1c13407eae14827c32a60e15)](https://app.codacy.com/gh/elifBalci/mavros-ardupilot-demo?utm_source=github.com&utm_medium=referral&utm_content=elifBalci/mavros-ardupilot-demo&utm_campaign=Badge_Grade)
+
 This project is a MAVROS based implementation of an autonomous drone runs on ArduPilot firmware with a path in form of a square.
 
 Requirements: ROS(Melodic), Gazebo, MAVROS and ArduPilot 
