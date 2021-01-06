@@ -4,7 +4,6 @@ Requirements: ROS(Melodic), Gazebo, MAVROS and ArduPilot
 
 This document mentions how to run node "Square" step by step.
 ___________________________________________________________
-
 Ros:  
 $ roscore  
 
@@ -30,9 +29,6 @@ $ rosrun tsa_assignment square
 To echo next position published by square node (it will start publishing after take off):  
 $ rostopic echo /drone/next_waypoint  
 ______________________________________________________________
-
 Elif Balcı  
 i.elif.balci@gmail.com  
 elifbalci.com
-
-
